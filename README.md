@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 [![Solved.ac
 프로필](https://solvedac-cards-starcea.paring.moe/profile/bumsoo0515?size=150)](https://solved.ac/bumsoo0515)
-[![BOJ](https://bojstat.vulcan.site/user/bumsoo0515)](https://www.acmicpc.net/user/bumsoo0515)
+[![BOJ](https://bojstat.vulcan.site/bumsoo0515)](https://www.acmicpc.net/user/bumsoo0515)
 -->
